@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Najlamoekti13
-- 👀 I’m interested in Quantum Computing and Microcontroller
+- 👀 I’m interested in Quantum Computing, Microcontroller and Space
 - 🌱 I’m currently learning Quantum algorithm, still basic tho 
 - 😄 Pronouns: SHE/HER
 - ⚡ Fun fact: IM A new Learner that currently rolled in Computer SCience
